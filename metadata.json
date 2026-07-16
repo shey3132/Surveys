@@ -1,0 +1,6 @@
+{
+  "name": "מנהל סקרים ימות המשיח",
+  "description": "מערכת לניהול, בנייה וסימולציה של סקרי טלפון דרך ממשק ה-API של ימות המשיח.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
